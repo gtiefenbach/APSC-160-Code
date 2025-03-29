@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1584205420 source:c:\users\griff\onedrive\documents\apsc 160 code\prelab1\main.c
-	<stdio.h>
-	<stdlib.h>
-
-1727126325 source:c:\users\griff\onedrive\documents\apsc 160 code\prelab1\newtonspounds.c
-	<stdio.h>
-
